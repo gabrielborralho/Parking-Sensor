@@ -17,7 +17,7 @@ See the sketch for instructions.
 
 -Potentiometer for adjusting the display contrast.
 
--And the Arduino ONE.
+-And the Arduino UNO.
 
 # Diagram
 
