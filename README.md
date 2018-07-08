@@ -19,6 +19,6 @@ See the sketch for instructions.
 
 -And the Arduino ONE.
 
-# Photos
+# Diagram
 
 <img src="https://i.imgur.com/iZYT0Cy.png"/>
