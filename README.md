@@ -1,5 +1,6 @@
 # Parking-Sensor
 Arduino Parking Sensor
+
 This repository contains the code and instructions to make a Parking Sensor Arduino. 
 Instructions are written as comments in the code.
 
@@ -15,4 +16,4 @@ See the sketch for instructions.
 
 # Photos
 
-<img src="https://imgur.com/iZYT0Cy"/>
+<img src="https://i.imgur.com/iZYT0Cy.png"/>
